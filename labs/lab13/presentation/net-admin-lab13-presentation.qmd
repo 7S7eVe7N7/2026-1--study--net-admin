@@ -13,7 +13,7 @@ author:
 title: Лабораторная работа №13
 subtitle: Администрирование локальных сетей
 license: CC BY
-date: 2026-04-04
+date: 2026-05-09
 date-format: "YYYY-MM-DD" 
 ---
 
